@@ -1,0 +1,8 @@
+../ECU/ECU.c:12:6:initializeRandomSeed	1
+../ECU/ECU.c:15:14:getRandomNumber	2
+../ECU/ECU.c:24:6:ECU_PosResponseInit	1
+../ECU/ECU.c:29:6:ECU_NegResponseInit	1
+../ECU/ECU.c:36:6:ECU_PosWriteResponseInit	1
+../ECU/ECU.c:39:6:ECU_NegWriteResponseInit	1
+../ECU/ECU.c:46:6:ResponseSeedInit	1
+../ECU/ECU.c:54:6:NegativeResponseInit	1
